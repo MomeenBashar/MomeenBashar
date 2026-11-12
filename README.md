@@ -95,6 +95,48 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 </tr>
 </table>
 
+## 🧭 Beyond the code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Currently exploring
+
+- Full-stack web development
+- Python and practical automation
+- Cloud fundamentals and developer tools
+- IoT ideas that connect software with the real world
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Open to
+
+- Student and community-led projects
+- Beginner-friendly open source
+- Creative web experiences
+- Conversations about learning and building
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ✨ My build loop
+
+<img src="https://img.shields.io/badge/01%20Think-0e75b6?style=for-the-badge" alt="Think" />
+<img src="https://img.shields.io/badge/02%20Build-111827?style=for-the-badge" alt="Build" />
+<img src="https://img.shields.io/badge/03%20Test-f59e0b?style=for-the-badge&labelColor=111827" alt="Test" />
+<img src="https://img.shields.io/badge/04%20Share-16a34a?style=for-the-badge" alt="Share" />
+
+<br />
+
+<sub>Small experiments become useful projects when you keep iterating.</sub>
+
+</div>
+
 ## 📊 GitHub analytics
 
 <div align="center">
