@@ -54,54 +54,40 @@ I’m a **Bachelor of Computer Applications student from Goa** who learns by bui
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,linux,vscode,arduino&perline=10" alt="HTML, CSS, JavaScript, Python, MySQL, Git, GitHub, Linux, VS Code and Arduino" />
 </div>
 
-## 🚀 Things I’m building
+## 🎯 My current direction
+
+Some of my newest work is private while it is being developed. Rather than showcase outdated repositories, this is where I’m putting my energy right now:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 [EcoTrace](https://github.com/MomeenBashar/EcoTrace)
+### 🧠 Build with purpose
 
-An experiment focused on technology for a more sustainable future.
-
-<br />
-<a href="https://github.com/MomeenBashar/EcoTrace"><img src="https://img.shields.io/github/stars/MomeenBashar/EcoTrace?style=flat-square&label=Stars&color=f59e0b" alt="EcoTrace stars" /></a>
-<a href="https://github.com/MomeenBashar/EcoTrace"><img src="https://img.shields.io/github/last-commit/MomeenBashar/EcoTrace?style=flat-square&label=Updated&color=0e75b6" alt="EcoTrace last commit" /></a>
+Turning ideas into practical digital experiences that solve real problems.
 
 </td>
 <td width="50%" valign="top">
 
-### 🩸 [BloodLY](https://github.com/MomeenBashar/BloodLY)
+### 🔐 Create in private
 
-A Python project exploring a practical solution for blood-related needs.
-
-<br />
-<a href="https://github.com/MomeenBashar/BloodLY"><img src="https://img.shields.io/github/stars/MomeenBashar/BloodLY?style=flat-square&label=Stars&color=f59e0b" alt="BloodLY stars" /></a>
-<a href="https://github.com/MomeenBashar/BloodLY"><img src="https://img.shields.io/github/languages/top/MomeenBashar/BloodLY?style=flat-square&label=Primary%20language&color=0e75b6" alt="BloodLY primary language" /></a>
+Developing, testing, and polishing new projects before sharing them publicly.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Discord-Bot](https://github.com/MomeenBashar/Discord-Bot)
+### 🌱 Learn continuously
 
-A JavaScript Discord bot with essential community features.
-
-<br />
-<a href="https://github.com/MomeenBashar/Discord-Bot"><img src="https://img.shields.io/github/stars/MomeenBashar/Discord-Bot?style=flat-square&label=Stars&color=f59e0b" alt="Discord-Bot stars" /></a>
-<a href="https://github.com/MomeenBashar/Discord-Bot"><img src="https://img.shields.io/github/languages/top/MomeenBashar/Discord-Bot?style=flat-square&label=Primary%20language&color=0e75b6" alt="Discord-Bot primary language" /></a>
+Strengthening my skills through hands-on projects, experimentation, and consistent practice.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [BEAST-BOY-SHUB](https://github.com/MomeenBashar/BEAST-BOY-SHUB)
+### 🤝 Grow the community
 
-A fan-made website showcasing games played by Beast Boy Shub.
-
-<br />
-<a href="https://github.com/MomeenBashar/BEAST-BOY-SHUB"><img src="https://img.shields.io/github/stars/MomeenBashar/BEAST-BOY-SHUB?style=flat-square&label=Stars&color=f59e0b" alt="BEAST-BOY-SHUB stars" /></a>
-<a href="https://github.com/MomeenBashar/BEAST-BOY-SHUB"><img src="https://img.shields.io/github/languages/top/MomeenBashar/BEAST-BOY-SHUB?style=flat-square&label=Primary%20language&color=0e75b6" alt="BEAST-BOY-SHUB primary language" /></a>
+Connecting with builders, sharing knowledge, and contributing through my ambassador roles.
 
 </td>
 </tr>
@@ -110,8 +96,8 @@ A fan-made website showcasing games played by Beast Boy Shub.
 ## 📊 GitHub snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github_dark" height="180" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github_dark" height="180" alt="Repository languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" height="180" alt="Repository languages" />
 </div>
 
 <div align="center">
