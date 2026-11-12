@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/MomeenBashar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=240&section=header&text=Momeen%20Bashar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Community-minded%20technologist&descAlignY=61&descSize=18" alt="Momeen Bashar profile header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=240&section=header&text=Momeen%20Bashar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Community-minded%20technologist&descAlignY=61&descSize=18" alt="Momeen Bashar profile header" width="100%" />
 </a>
 
 <a href="https://github.com/MomeenBashar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Turning+ideas+into+useful+projects;Learning+in+public%2C+one+commit+at+a+time;Building+with+curiosity+and+consistency" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=850&color=0E75B6&center=true&vCenter=true&width=760&lines=Turning+ideas+into+useful+projects;Learning+in+public%2C+one+commit+at+a+time;Building+with+curiosity+and+consistency;Creating+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Animated introduction" />
 </a>
 
 <p>
@@ -13,6 +13,8 @@
   <a href="https://github.com/MomeenBashar?tab=followers"><img src="https://img.shields.io/github/followers/MomeenBashar?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" /></a>
   <a href="https://momeenbashar.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header&animation=twinkling" alt="Animated divider" width="72%" />
 
 </div>
 
@@ -116,6 +118,6 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer" alt="Profile footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer&animation=twinkling" alt="Profile footer" width="100%" />
 
 </div>
