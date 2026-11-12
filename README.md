@@ -1,20 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/MomeenBashar" title="Open Momeen's GitHub profile">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=240&section=header&text=Momeen%20Bashar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Community-minded%20technologist&descAlignY=61&descSize=18" alt="Momeen Bashar profile header" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=240&section=header&text=Momeen%20Bashar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Community-minded%20technologist&descAlignY=61&descSize=18" alt="Momeen Bashar profile header" width="100%" />
 
-<a href="https://github.com/MomeenBashar" title="Visit Momeen's profile">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=850&color=0E75B6&center=true&vCenter=true&width=760&lines=Turning+ideas+into+useful+projects;Learning+in+public%2C+one+commit+at+a+time;Building+with+curiosity+and+consistency;Creating+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=850&color=0E75B6&center=true&vCenter=true&width=760&lines=Turning+ideas+into+useful+projects;Learning+in+public%2C+one+commit+at+a+time;Building+with+curiosity+and+consistency;Creating+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Animated introduction" />
 
 <p>
-    <a href="https://github.com/MomeenBashar" title="Profile views"><img src="https://komarev.com/ghpvc/?username=MomeenBashar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-    <a href="https://github.com/MomeenBashar?tab=followers" title="Follow Momeen"><img src="https://img.shields.io/github/followers/MomeenBashar?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" /></a>
-    <a href="https://momeenbashar.github.io/" title="Open Momeen's portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/MomeenBashar?tab=followers" title="Follow Momeen"><img src="https://img.shields.io/github/followers/MomeenBashar?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" /></a>
+  <a href="https://github.com/MomeenBashar" title="Profile views"><img src="https://komarev.com/ghpvc/?username=MomeenBashar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header&animation=twinkling" alt="Animated divider" width="72%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=3&section=header" alt="Divider" width="72%" />
 
 </div>
 
@@ -24,7 +19,7 @@
 
 ## 👋 A little about me
 
-I’m a **Bachelor of Computer Applications student from Goa** who learns by building. I enjoy turning rough ideas into practical projects, sharing what I learn, and meeting people who are curious about technology.
+I’m a **Bachelor of Computer Applications student from Goa, India** who learns by building. I enjoy turning rough ideas into practical projects, sharing what I learn, and meeting people who are curious about technology.
 
 - 🎓 Pursuing a **Bachelor of Computer Applications**
 - 🌍 Based in **Goa, India**
@@ -38,13 +33,13 @@ I’m a **Bachelor of Computer Applications student from Goa** who learns by bui
 
 ## ⚡ Quick links
 
-<a href="https://momeenbashar.github.io/" title="Open personal site"><img src="https://img.shields.io/badge/🌐%20Personal%20site-0e75b6?style=for-the-badge" alt="Personal site" /></a>
-
+<a href="https://momeenbashar.github.io/" title="Open my portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<br />
 <a href="https://www.linkedin.com/in/momeen-bashar-414088277/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
+<br />
 <a href="https://www.instagram.com/rabbitgamer_m_4/" title="Follow on Instagram"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<a href="https://github.com/MomeenBashar?tab=repositories" title="Explore repositories"><img src="https://img.shields.io/badge/Repositories-See%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<br />
+<a href="https://github.com/MomeenBashar?tab=repositories" title="Explore my repositories"><img src="https://img.shields.io/badge/Repositories-See%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </td>
 </tr>
@@ -95,59 +90,62 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 </tr>
 </table>
 
-## 📊 Momeen's GitHub analytics
-
-<div align="center">
-  <a href="https://github.com/MomeenBashar?tab=followers" title="Follow Momeen"><img src="https://img.shields.io/github/followers/MomeenBashar?style=for-the-badge&label=Followers&color=111827" alt="Followers" /></a>
-  <a href="https://github.com/MomeenBashar" title="Profile views"><img src="https://komarev.com/ghpvc/?username=MomeenBashar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/MomeenBashar?tab=repositories" title="Explore public work"><img src="https://img.shields.io/badge/Public%20work-Explore-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore public work" /></a>
-</div>
+## 📊 My GitHub analytics
 
 <table cellpadding="8" cellspacing="8" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" width="100%" alt="Momeen's GitHub statistics" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" width="100%" alt="My GitHub statistics" />
+  </picture>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github" width="100%" alt="Momeen's most productive coding time" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github" width="100%" alt="My most productive coding time" />
+  </picture>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" width="58%" alt="Momeen's most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" width="58%" alt="My most used languages" />
+  </picture>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MomeenBashar&theme=github" width="100%" alt="Momeen's GitHub contribution profile" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MomeenBashar&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MomeenBashar&theme=github" width="100%" alt="My GitHub contribution profile" />
+  </picture>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=0d1117&ring=0e75b6&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Momeen's GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=00000000&ring=0e75b6&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=00000000&ring=0e75b6&fire=f59e0b&currStreakNum=111827&sideNums=111827&currStreakLabel=0e75b6&sideLabels=57606a&dates=57606a" alt="My GitHub contribution streak" />
+  </picture>
 </div>
 
 <br />
 
-### 🟩 Momeen's contribution calendar
+### 🟩 My contribution calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/39d353/MomeenBashar" width="100%" alt="Momeen's GitHub contribution calendar" />
+  <img src="https://ghchart.rshah.org/39d353/MomeenBashar" width="100%" alt="My GitHub contribution calendar" />
   <br />
   <sub>Less activity ⬜ 🟩 🟩 🟩 More activity · Each square represents a day of contributions</sub>
 </div>
 
-<div align="center">
-  <a href="https://github.com/MomeenBashar?tab=overview" title="View Momeen's GitHub activity">
-    📌 <b>View my full GitHub activity</b>
-  </a>
-</div>
+<br />
 
 <div align="center">
 
-<a href="https://github.com/MomeenBashar?tab=repositories" title="Explore Momeen's repositories">✨ Explore all my repositories</a>
-
-<br /><br />
+📌 [**View my full GitHub activity**](https://github.com/MomeenBashar?tab=overview)
 
 </div>
