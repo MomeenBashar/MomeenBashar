@@ -95,12 +95,32 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 </tr>
 </table>
 
-## 📊 GitHub snapshot
+## 📊 GitHub analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" height="180" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" height="180" alt="Repository languages" />
+  <img src="https://img.shields.io/github/public-repos/MomeenBashar?style=for-the-badge&label=Public%20repos&color=0e75b6" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/MomeenBashar?style=for-the-badge&label=Followers&color=111827" alt="Followers" />
+  <img src="https://img.shields.io/github/created-at/MomeenBashar?style=for-the-badge&label=Member%20since&color=0e75b6" alt="GitHub member since" />
 </div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" height="180" alt="GitHub statistics" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" height="180" alt="Repository languages" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github" height="180" alt="Most productive coding time" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MomeenBashar&theme=github" height="180" alt="Most used commit languages" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=0d1117&ring=0e75b6&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
