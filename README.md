@@ -137,7 +137,7 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 
 </div>
 
-## 📊 GitHub analytics
+## 📊 Momeen's GitHub analytics
 
 <div align="center">
   <img src="https://img.shields.io/github/public-repos/MomeenBashar?style=for-the-badge&label=Public%20repos&color=0e75b6" alt="Public repositories" />
@@ -156,10 +156,23 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 </tr>
 <tr>
 <td colspan="2" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" height="180" alt="Momeen's most used languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MomeenBashar&theme=github" width="96%" alt="GitHub contribution profile" />
 </td>
 </tr>
 </table>
+
+### 🟩 Momeen's contribution calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/39d353/MomeenBashar" width="96%" alt="Momeen's GitHub contribution calendar" />
+  <br />
+  <sub>Less activity ⬜ 🟩 🟩 🟩 More activity · Each square represents a day of contributions</sub>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=0d1117&ring=0e75b6&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
@@ -180,3 +193,4 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer&animation=twinkling" alt="Profile footer" width="100%" />
 
 </div>
+
