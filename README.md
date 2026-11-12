@@ -109,15 +109,12 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomeenBashar&theme=github" height="180" alt="GitHub statistics" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomeenBashar&theme=github" height="180" alt="Repository languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github" height="180" alt="Most productive coding time" />
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomeenBashar&theme=github" height="180" alt="Most productive coding time" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MomeenBashar&theme=github" height="180" alt="Most used commit languages" />
+<td colspan="2" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MomeenBashar&theme=github" width="96%" alt="GitHub contribution profile" />
 </td>
 </tr>
 </table>
