@@ -101,7 +101,7 @@ Connecting with builders, sharing knowledge, and contributing through my ambassa
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=00000000&ring=0e75b6&fire=f59e0b&currStreakLabel=0e75b6&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=MomeenBashar&hide_border=true&background=0d1117&ring=0e75b6&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
